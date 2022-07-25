@@ -1,3 +1,3 @@
 # Sololearn-ex
-Repository for Sololearn Code Coach
+Repository for Code Coach
 Problems from Sololearn App.
